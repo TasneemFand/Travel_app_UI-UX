@@ -30,13 +30,13 @@ const GetApp = () => {
             />
           </div>
         </div>
-        <div className="flex-1">
+        <div className="flex-1 flex justify-center">
           <Image
             src="/phones.png"
             alt="phones"
-            width={400}
+            width={1000}
             height={1000}
-            className="w-auto h-full"
+            className="w-auto h-full "
           />
         </div>
       </div>
