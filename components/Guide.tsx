@@ -3,7 +3,7 @@ import Image from "next/image";
 const Guide = () => {
   return (
     <section className="max-container flex flex-col gap-20 ">
-      <div className="lg:flex-row justify-between items-center padding-container flex-col flex gap-2">
+      <div className="lg:flex-row justify-between items-center padding-container flex-col flex gap-3">
         <div className="flex flex-col items-start flex-1">
           <Image
             src="/camp.svg"
